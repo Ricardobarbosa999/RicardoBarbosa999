@@ -1,7 +1,7 @@
 
 ## Olá Devs e QAs
 
-##### Me chamo Ricardo, seja bem vindo ao meu Repositório. 
+Me chamo Ricardo, seja bem vindo ao meu Repositório. 
 
 ## Meu portifólio 
 > :construction: Em construção :construction:
