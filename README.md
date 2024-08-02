@@ -22,7 +22,11 @@ Me chamo Ricardo, seja bem vindo ao meu Repositório.
 <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>           <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>           <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
           
-
+<div style="width: 200px;">
+<a href="[https://github.com/SeuPerfilAqui/github-readme-stats](https://github.com/Ricardobarbosa999?tab=stars)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
+</a>
+</div>
           
 
 
