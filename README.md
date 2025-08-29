@@ -20,7 +20,7 @@ Me chamo Ricardo, seja bem vindo ao meu Repositório.
 
 ## Estou Aprendendo 
 <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>           <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>           <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f3ae8a2f-4c13-4cac-a95d-8dbef8480c7d" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f3ae8a2f-4c13-4cac-a95d-8dbef8480c7d" width="40" height="40"/>
 
 
           
