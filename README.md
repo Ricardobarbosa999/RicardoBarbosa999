@@ -3,7 +3,7 @@
 
 Me chamo Ricardo, seja bem vindo ao meu Repositório. 
 
-## Meu portifólio 
+## Meu portifólio Web
 > :construction: Em construção :construction:
            
 ## Contatos:
