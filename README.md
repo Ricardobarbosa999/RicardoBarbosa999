@@ -1,6 +1,4 @@
-# 👋 Olá, Devs e QAs!  
-
-![Banner](https://via.placeholder.com/1200x300.png?text=Ricardo+Barbosa+-+QA+Automation)  
+# 👋 Olá, pessoal!  
 
 Me chamo **Ricardo Barbosa** e este é o meu repositório! 🚀  
 Aqui você encontrará conteúdos voltados para **Qualidade de Software, Automação de Testes e Desenvolvimento Web**.  
