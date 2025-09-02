@@ -22,6 +22,7 @@ Sempre em busca de aprimorar meus conhecimentos em **cloud, CI/CD e automação 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40"/>  
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>  
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>  
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" width="40" height="40"/>  
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  
@@ -62,4 +63,4 @@ Sempre em busca de aprimorar meus conhecimentos em **cloud, CI/CD e automação 
 
 ---
 
-⭐️ *"Qualidade não é um ato, é um hábito."*  
+
