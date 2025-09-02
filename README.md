@@ -3,7 +3,7 @@
 ![Banner](https://via.placeholder.com/1200x300.png?text=Ricardo+Barbosa+-+QA+Automation)  
 
 Me chamo **Ricardo Barbosa** e este é o meu repositório! 🚀  
-Aqui você encontrará projetos voltados para **Qualidade de Software, Automação de Testes e Desenvolvimento Web**.  
+Aqui você encontrará conteúdos voltados para **Qualidade de Software, Automação de Testes e Desenvolvimento Web**.  
 
 ---
 
@@ -11,12 +11,6 @@ Aqui você encontrará projetos voltados para **Qualidade de Software, Automaç�
 Sou **Analista de QA Pleno** com experiência em testes manuais e automação.  
 Atualmente trabalho com **Java, Selenium, Cypress, Postman e JUnit**, aplicando metodologias ágeis e boas práticas de QA.  
 Sempre em busca de aprimorar meus conhecimentos em **cloud, CI/CD e automação de testes**.  
-
----
-
-## 🚀 Projetos em Destaque  
-- [🔗 Helpdesk API Tests com Cypress](https://github.com/Ricardobarbosa999/helpdesk-api-cypress) – Automação de testes em APIs de usuários e tickets.  
-- [🔗 Sistema de Controle Financeiro em Java (Spring Boot)](link-do-repo) – Projeto pessoal com arquitetura realista.  
 
 ---
 
