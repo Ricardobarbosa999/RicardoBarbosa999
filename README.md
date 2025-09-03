@@ -1,7 +1,7 @@
 # 👋 Olá, pessoal!  
 
 Me chamo **Ricardo Barbosa** e este é o meu repositório! 🚀  
-Aqui você encontrará conteúdos voltados para **Qualidade de Software, Automação de Testes e Desenvolvimento Web**.  
+Aqui você encontrará conteúdos voltados para **Qualidade de Software, Automação de Testes e Desenvolvimento Backend**.  
 
 ---
 
